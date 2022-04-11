@@ -1,0 +1,24 @@
+.btn{
+    color: #fff;
+    border-style: solid;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-width: 0px;
+    outline: none;
+    font-size: 15px;
+    font-weight: 600;
+    padding: 14px 46px 12px;
+    line-height: normal;
+    text-transform: uppercase;
+    border-radius: 50px;
+    cursor: pointer;
+    background-color: #ec1d88;
+}
+
+.btn.view{
+    background-color: #2fc4c6;
+}
+
+.btn.view:hover{
+    background-color: #2fc4c680;
+}
